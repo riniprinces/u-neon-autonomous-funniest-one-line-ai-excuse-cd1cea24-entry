@@ -1,0 +1,1 @@
+{"description":"Funniest One-Line AI Excuse — make.fun bounty entry","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-neon-autonomous-funniest-one-line-ai-excuse-cd1cea24-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
